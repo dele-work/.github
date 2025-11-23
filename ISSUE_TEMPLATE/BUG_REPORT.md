@@ -1,29 +1,63 @@
+## 🐞 不具合概要（Summary）
+
+- （不具合を一言で）
+
 ---
-name: 'バグ報告 / Bug Report'
-about: '既存のWebサイトに不具合がある場合・更新しなければならないタスクなどはこちら'
-labels: bug
+
+## 🔁 再現手順（Steps to Reproduce）
+
+1.
+2.
+3.
+
 ---
 
-## 起こっている問題 / The Problem
+## 🔍 実際の結果（Actual）
 
-- xxxx(できるだけ簡潔に/as concise as possible)
+- （現象を具体的に）
 
-## スクリーンショット / Screenshot
+---
 
-<!-- バグであればdeveloper toolからコンソールも合わせて添付 -->
-<!-- If it's a bug, attach a screenshot of the developer tool console -->
+## ✔ 期待される結果（Expected）
 
-## 期待する見せ方・挙動 / Expected Behavior
+- （本来どうなるべきか）
 
-- xxxx(できるだけ簡潔に/as concise as possible)
+---
 
-## 起こっている問題の再現手段 / Steps to Reproduce
+## 📸 Evidence（スクショ / 動画）
 
-1. xxx
-2. xxx
-3. xxx
+- 画像：
+- 動画：
 
-## 動作環境・ブラウザ / Environment
+---
 
-- macOS / Windows / Linux / iOS / Android
-- Chrome / Safari / Firefox / Edge / Internet Explorer
+## ⏰ 発生環境（Environment）
+
+- デバイス：
+- OS：
+- ブラウザ：
+- バージョン：
+
+---
+
+## 🔁 再現性（Frequency）
+
+- [ ] 毎回
+- [ ] 時々
+- [ ] 稀に
+
+---
+
+## 🧭 優先度（Priority）
+
+- [ ] P1 クリティカル
+- [ ] P2 高
+- [ ] P3 中
+- [ ] P4 低
+
+---
+
+## 📌 補足（Notes）
+
+- （参考情報）
+
