@@ -1,3 +1,9 @@
+---
+name: '調査依頼 / Investigation Request'
+about: '不明点の調査・原因究明・技術検証などの依頼はこちら'
+labels: investigation
+---
+
 ## 🔍 調査依頼の概要（Summary）
 
 - （何を調査したいか）

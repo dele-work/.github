@@ -1,3 +1,9 @@
+---
+name: '仕様確認 / Specification Clarification'
+about: '仕様の確認・明確化・ドキュメント整備などの依頼はこちら'
+labels: documentation, question
+---
+
 ## 📘 質問の概要（Summary）
 
 - （何の仕様を確認したいか）

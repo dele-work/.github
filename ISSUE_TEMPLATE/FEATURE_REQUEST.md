@@ -1,3 +1,9 @@
+---
+name: '機能要望 / Feature Request'
+about: '新機能の追加・既存機能の拡張についての提案はこちら'
+labels: enhancement
+---
+
 ## ✨ 機能要望の概要（Summary）
 
 - （追加したい機能を一行で）

@@ -1,3 +1,9 @@
+---
+name: '改善提案 / Improvement'
+about: '既存プロセスやシステムの改善・効率化の提案はこちら'
+labels: improvement
+---
+
 ## 🛠 改善提案の概要（Summary）
 
 - （改善したいポイントを一行で）

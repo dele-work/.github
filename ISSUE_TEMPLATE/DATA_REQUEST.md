@@ -1,3 +1,9 @@
+---
+name: 'データリクエスト / Data Request'
+about: 'データ抽出・分析・レポート作成などの依頼はこちら'
+labels: data-request
+---
+
 ## 📊 データ依頼の概要（Summary）
 
 - （欲しいデータを一行で）
