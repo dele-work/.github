@@ -1,1 +1,18 @@
+# IDE files
 .idea/
+.vscode/
+*.iml
+
+# Local settings
+.claude/
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+node_modules/
